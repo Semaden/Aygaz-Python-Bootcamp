@@ -38,7 +38,7 @@ def print_kurallar():
           "İğne kağıdı deler.\n"
           "İğne ipliği yener.")
 
-def tas_kagit_makas_iğne_iplik_Sema_Nimet_UNAL():
+def tas_kagit_makas_igne_iplik_Sema_Nimet_UNAL():
     print("Taş, Kağıt, Makas, İğne ve İplik Oyununa Hoş Geldiniz!")
     print_kurallar()
     print("İlk iki turu kazanan oyunu kazanır.\n")
@@ -124,4 +124,4 @@ def tas_kagit_makas_iğne_iplik_Sema_Nimet_UNAL():
     print("Oyun bitti. Tekrar görüşmek üzere!")
 
 # Oyunu başlatmak için fonksiyonu çalıştırın:
-tas_kagit_makas_iğne_iplik_Sema_Nimet_UNAL()
+tas_kagit_makas_igne_iplik_Sema_Nimet_UNAL()
